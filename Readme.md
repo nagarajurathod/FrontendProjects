@@ -9,8 +9,8 @@ If you like this repo, be sure to ⭐ it.
 ## [All projects link](https://github.com/nagarajurathod/FrontendProjects.git) 
 
 
-|  #  | Project | Live Demo | tutorial
-| --- | ------------------------------------------------ | --------------------  | ------------- |
+|  #  | Project | Live Demo | 
+| --- | ------------------------------------------------ | --------------------  | 
 | 01  | [3d social media icon](https://github.com/smthari/Frontend-Projects/tree/master/3d%20social%20media%20icons)| [Live Demo](https://3d-social-media-icons.netlify.app/)| 
 | 02  | [Search Bar](https://github.com/smthari/Frontend-Projects/tree/master/Search%20bar%20animation)| [Live Demo](https://animated-searchbar.netlify.app/)|
 | 03  | [Slideshow](https://github.com/smthari/Frontend-Projects/tree/master/Slideshow)| [Live Demo](https://slideshow-animation.netlify.app/)| 
